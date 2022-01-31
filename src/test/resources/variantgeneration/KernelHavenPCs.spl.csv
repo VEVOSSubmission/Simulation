@@ -1,0 +1,6 @@
+Path;File Condition;Block Condition;Presence Condition;start;end
+src/FooFoo.cpp ; true ;true;;1;21
+src/FooFoo.cpp;true;A;;4;10
+src/FooFoo.cpp;true;B ;   ;6;7
+src/FooFoo.cpp;true;(C && D) || E;;16; 17
+ src/foo/bar.cpp;A;false;;1;4

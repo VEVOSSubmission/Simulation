@@ -1,0 +1,47 @@
+{
+  "version": 5,
+  "descriptor": {
+    "variableType": "BOOLEAN",
+    "constraintFileType": "DIMACS",
+    "attributes": [
+      "HIERARCHICAL",
+      "CONSTRAINT_USAGE"
+    ]
+  },
+  "variables": [
+    {
+      "name": "CONFIG_ACPID",
+      "type": "bool",
+      "dimacsNumber": 162,
+      "references": [],
+      "referenced-by": [],
+      "parent": "CONFIG_PREFIX",
+      "children": [],
+      "nestingDepth": 1,
+      "class": "net.ssehub.kernel_haven.variability_model.HierarchicalVariable"
+    },
+    {
+      "name": "CONFIG_ADDGROUP",
+      "type": "bool",
+      "dimacsNumber": 326,
+      "references": [],
+      "referenced-by": [],
+      "parent": "CONFIG_PREFIX",
+      "children": [],
+      "nestingDepth": 1,
+      "class": "net.ssehub.kernel_haven.variability_model.HierarchicalVariable"
+    },
+    {
+      "name": "CONFIG_PREFIX",
+      "type": "string",
+      "dimacsNumber": 0,
+      "references": [],
+      "referenced-by": [],
+      "parent": null,
+      "children": [],
+      "nestingDepth": 0,
+      "class": "net.ssehub.kernel_haven.variability_model.HierarchicalVariable"
+    }
+  ],
+  "constraintModel": ""
+}
