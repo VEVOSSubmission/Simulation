@@ -1,0 +1,2 @@
+Path;File Condition;Block Condition;Presence Condition;start;end
+console-tools/deallocvt.c;CONFIG_DEALLOCVT;1;CONFIG_DEALLOCVT;1;39

@@ -1,0 +1,3 @@
+Path;File Condition;Block Condition;Presence Condition;start;end
+src/FooFoo.cpp;true;true;;1;10
+src/FooFoo.cpp;true;true;;5;15
